@@ -1,0 +1,12 @@
+{
+  "name": "quote-renderer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "glob": "^7.1.3",
+    "jimp": "^0.5.3",
+    "underscore.string": "^3.3.4"
+  }
+}
