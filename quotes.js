@@ -1,5 +1,6 @@
 const fs = require('fs');
 const s = require('underscore.string');
+const _ = require('lodash');
 const quotes = s.lines(fs.readFileSync('./quotes.txt', 'utf8'))
     .map(s.clean)
     .filter(line => line)
@@ -11,4 +12,5 @@ const quotes = s.lines(fs.readFileSync('./quotes.txt', 'utf8'))
         };
     });
     
-module.exports = quotes;
+// module.exports = quotes.slice(0, 1);
+module.exports = _.shuffle(quotes);
