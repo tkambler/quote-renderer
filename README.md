@@ -2,6 +2,7 @@
 
 ---
 
+![Digital Frame](./misc/photo.jpg)
 
 
 ## Related Resources
