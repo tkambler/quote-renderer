@@ -12,7 +12,9 @@ With this script, you can specify a text file containing quotes along with a fol
 
 ## Example Images
 
-<img src="./misc/0.jpg" style="padding: 10px;">
+<img src="./misc/0.jpg">
+
+<img src="./misc/1.jpg">
 
 ## Getting Started
 
