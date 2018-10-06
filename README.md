@@ -2,7 +2,7 @@
 
 ---
 
-![Digital Frame](./misc/photo.jpg)
+![Digital Frame](./misc/frame.jpg)
 
 
 ## Related Resources
